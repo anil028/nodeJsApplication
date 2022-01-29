@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo 'hello world application'
+                echo 'this is release branch'
             }
         }
     }
